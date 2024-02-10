@@ -94,4 +94,4 @@ When it comes to genres, the total sales figures highlight the following as the 
 
 10. **The Legend of Zelda: Twilight Princess**: 94.79
 
-Uncover more insights through with the dashboard!
+Uncover more insights through the dashboard!
