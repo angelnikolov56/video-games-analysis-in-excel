@@ -12,7 +12,7 @@ The aim of this project is to build an interactive dashboard in Excel that can b
 
 -   I reshaped the sales columns in order to be able to break down the sales by region. I used Power Query's Unpivot Columns functionality.
 
-After the cleaning and transformation I've procedeed with building the pivot tables and visualizations that can be explored in the file.
+After the cleaning and transformation, I proceeded with building the pivot tables and visualizations that can be explored in the file.
 
 ## Insights
 
@@ -28,7 +28,7 @@ The sales distribution by market for video games, based on the data from the "Vi
 
 -   **Rest of World**: 393.74 million units
 
-This distribution indicates that North America is the largest market for video game sales, followed by Europe, Japan, and then the Rest of World. The significant lead of North America in video game sales highlights the region's strong influence on the global video game market.
+This distribution indicates that North America is the largest market for video game sales, followed by Europe, Japan, and then the Rest of the World. The significant lead of North America in video game sales highlights the region's strong influence on the global video game market.
 
 If we look into the distribution over time we can see a shift in the video game market over the years, with North America maintaining a strong lead, Europe's market share growing, Japan's market share shrinking after an early peak, and the Rest of World market share slowly increasing.
 
